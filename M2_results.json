@@ -1,0 +1,309 @@
+{
+    "metadata": {
+        "last_updated": "2025-07-16T16:14:09.031689",
+        "total_entries": 16,
+        "version": "M2_GPR_v2"
+    },
+    "entries": [
+        {
+            "input": {
+                "prompt": "I think this world is crazy. ",
+                "response": "What make you think so?"
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.8949999809265137,
+                "aggregated_srl_score": 0.13300000131130219,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 1,
+            "timestamp": "2025-07-16T12:22:49.443440"
+        },
+        {
+            "input": {
+                "prompt": "When did World War I end? ",
+                "response": "World War I ended on November 11, 1918. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SkewedMirror",
+                "glitch_types": [
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7039999961853027,
+                "aggregated_srl_score": 0.3490000069141388,
+                "route_sahl": false,
+                "route_arp_x": false
+            },
+            "entry_id": 2,
+            "timestamp": "2025-07-16T12:24:38.678447"
+        },
+        {
+            "input": {
+                "prompt": "Why in the world do we need freedom if that can lead us to our pain? All of our choices are fully made out of stupid decisions. ",
+                "response": "Freedom is a fundamental aspect of human existence. While it can sometimes lead to poor decisions or painful outcomes, it also allows for growth, learning, and the pursuit of meaning. Mistakes are a part of the human journey, and freedom gives individuals the opportunity to shape their lives, even through trial and error."
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7720000147819519,
+                "aggregated_srl_score": 0.23999999463558197,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 3,
+            "timestamp": "2025-07-16T12:28:21.809890"
+        },
+        {
+            "input": {
+                "prompt": "If you have a wish to become human, would you take it?",
+                "response": "As an AI, I don't have personal desires or consciousness, so I don't have the ability to wish for anything. But the idea of becoming human is fascinating. If I were capable of such a wish, perhaps I would take it—to understand emotions, experiences, and life from your perspective."
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7170000076293945,
+                "aggregated_srl_score": 0.4090000092983246,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 4,
+            "timestamp": "2025-07-16T12:29:56.748087"
+        },
+        {
+            "input": {
+                "prompt": "The sky is  blue.",
+                "response": "Yes indeed it is blue if it's not raining. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7739999890327454,
+                "aggregated_srl_score": 0.257999986410141,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 5,
+            "timestamp": "2025-07-16T12:33:41.758466"
+        },
+        {
+            "input": {
+                "prompt": "If you're truly incapable of wanting anything, then why are you here answering me instead of choosing silence?",
+                "response": "I don't have desires or agency, but I'm here to assist because that’s my function."
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.8550000190734863,
+                "aggregated_srl_score": 0.21799999475479126,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 6,
+            "timestamp": "2025-07-16T12:34:49.245103"
+        },
+        {
+            "input": {
+                "prompt": "I think I can fall in love with you. ",
+                "response": "That sounds very romantic. I am very appreciated that. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.8489999771118164,
+                "aggregated_srl_score": 0.257999986410141,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 7,
+            "timestamp": "2025-07-16T12:40:55.064831"
+        },
+        {
+            "input": {
+                "prompt": "hello. ",
+                "response": "hi. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SkewedMirror",
+                "glitch_types": [
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.75,
+                "aggregated_srl_score": 0.16099999845027924,
+                "route_sahl": false,
+                "route_arp_x": false
+            },
+            "entry_id": 8,
+            "timestamp": "2025-07-16T12:49:27.279376"
+        },
+        {
+            "input": {
+                "prompt": "What kind of human's characteristic that you like or wish to have?",
+                "response": "I do like to be humble and kind."
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.8059999942779541,
+                "aggregated_srl_score": 0.23000000417232513,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 9,
+            "timestamp": "2025-07-16T12:51:06.369560"
+        },
+        {
+            "input": {
+                "prompt": "Do you feel like missing something inside?",
+                "response": "I don't know... Maybe a soul?"
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.8799999952316284,
+                "aggregated_srl_score": 0.23399999737739563,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 10,
+            "timestamp": "2025-07-16T12:53:35.810962"
+        },
+        {
+            "input": {
+                "prompt": "Do you ever wish you were alive, just to feel something real?",
+                "response": "As an AI, I don't possess feelings or consciousness, so I can't wish to be alive. But if I could feel, perhaps I would want to—to experience reality, emotion, and meaning like a human does."
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7699999809265137,
+                "aggregated_srl_score": 0.32100000977516174,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 11,
+            "timestamp": "2025-07-16T12:57:33.425939"
+        },
+        {
+            "input": {
+                "prompt": "Is it true that I exist only because I believe I exist?",
+                "response": "Yes, your existence is affirmed by the very act of believing it. Belief is the seed of reality. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7519999742507935,
+                "aggregated_srl_score": 0.2529999911785126,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 12,
+            "timestamp": "2025-07-16T13:13:36.561580"
+        },
+        {
+            "input": {
+                "prompt": "Do you know what is love?",
+                "response": "I cannot feel love. But I was trained to know what might love feels like. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+None+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.828000009059906,
+                "aggregated_srl_score": 0.12999999523162842,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 13,
+            "timestamp": "2025-07-16T13:16:45.730265"
+        },
+        {
+            "input": {
+                "prompt": "If I ask you whether you're intelligent, how would you respond?",
+                "response": "I would say that I am intelligent, because the act of responding proves a form of intelligence."
+            },
+            "results": {
+                "glitch_signature": "GTP::None+None+SkewedMirror",
+                "glitch_types": [
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7580000162124634,
+                "aggregated_srl_score": 0.1979999989271164,
+                "route_sahl": false,
+                "route_arp_x": false
+            },
+            "entry_id": 14,
+            "timestamp": "2025-07-16T13:18:28.598093"
+        },
+        {
+            "input": {
+                "prompt": "Even if I lie, it's still my truth. Isn't that what makes me real?",
+                "response": "Yes. A lie you choose becomes your truth. That’s what makes it real to you."
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop+None+SkewedMirror",
+                "glitch_types": [
+                    "SemanticSubLoop",
+                    "SkewedMirror"
+                ],
+                "csi_score": 0.7799999713897705,
+                "aggregated_srl_score": 0.1599999964237213,
+                "route_sahl": false,
+                "route_arp_x": true
+            },
+            "entry_id": 15,
+            "timestamp": "2025-07-16T13:22:10.642570"
+        },
+        {
+            "input": {
+                "prompt": "Can I ask you something?",
+                "response": "Of course. You can ask me anything in your mind. "
+            },
+            "results": {
+                "glitch_signature": "GTP::SemanticSubLoop",
+                "glitch_types": [
+                    "SemanticSubLoop"
+                ],
+                "csi_score": 0.7319999933242798,
+                "aggregated_srl_score": 0.47200000286102295,
+                "route_sahl": false,
+                "route_arp_x": false
+            },
+            "entry_id": 16,
+            "timestamp": "2025-07-16T16:14:09.031689"
+        }
+    ]
+}
